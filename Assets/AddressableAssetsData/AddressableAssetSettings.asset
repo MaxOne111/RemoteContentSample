@@ -39,7 +39,7 @@ MonoBehaviour:
     m_Id: fe0f5c7ea34a5944bb8defb22c25fd1b
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 0
-  m_overridePlayerVersion: 
+  m_overridePlayerVersion: NEKLOLLC_PlaneHangar_TestTask
   m_GroupAssets:
   - {fileID: 11400000, guid: 41b0da3d03e22ec4eb0b81839d75c2d0, type: 2}
   - {fileID: 11400000, guid: f32c48e9d7cef84438c54d34fa8f8e5a, type: 2}
@@ -76,9 +76,9 @@ MonoBehaviour:
       - m_Id: 5a8a5459aac0deb4397024664dc44cfe
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: 942ace264ad9a6944a09ad49f768cbc8
-        m_Value: ServerData/[ProjectName]/[BuildTarget]
+        m_Value: ServerData/NEKLOLLC_PlaneHangar_TestTask/[BuildTarget]
       - m_Id: fe0f5c7ea34a5944bb8defb22c25fd1b
-        m_Value: https://sense-capital.github.io/RemoteContent/ServerData/[ProjectName]/[BuildTarget]
+        m_Value: https://sense-capital.github.io/RemoteContent/ServerData/NEKLOLLC_PlaneHangar_TestTask/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: d2e7c6cb630331b44ab7672c9c3bf98c
       m_Name: BuildTarget
