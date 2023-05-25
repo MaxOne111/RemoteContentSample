@@ -18,7 +18,7 @@ MonoBehaviour:
   m_GUID: a4c7b5c078ce511459a21fe20b8da5a4
   m_SerializeEntries:
   - m_GUID: 951027285fa6f324e9fedb052c597f69
-    m_Address: MyRemoteScene
+    m_Address: ArtSense_Hangar_TestTask
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
